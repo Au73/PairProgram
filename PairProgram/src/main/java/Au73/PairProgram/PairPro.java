@@ -38,7 +38,6 @@ public class PairPro {
 
 
 
-		System.out.println("");
 		System.out.println("程序运行时间：" + (endTime - startTime) + "ms");
 
 	}
